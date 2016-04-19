@@ -1,0 +1,8 @@
+{
+  "name":         "TestProgram",
+  "description":  "Test Description",
+  "author":       "Michihiro Kimura",
+  "corp":         "net.kmrweb",
+  "email":        "kimura@kmrweb.net",
+  "first":        "index.html"
+}

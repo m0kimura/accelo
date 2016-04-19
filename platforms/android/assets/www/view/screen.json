@@ -1,0 +1,6 @@
+{"items": [
+  {"ptype": "header", "title": "page1", "icons": [
+    {"id": "menu", "name": "menu"}, {"name": "title"}, {"name": "face"}
+  ]},
+  {"ptype": "list", "html": "%{key}:%{value}"}
+]}
